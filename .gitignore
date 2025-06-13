@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+.venv/
+.vscode/
+gemma-3-27b-it/
+local_gemma_model/
+*.bin
+*.safetensors
+*.ckpt
